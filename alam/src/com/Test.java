@@ -5,7 +5,9 @@ public class Test {
 		for(;;)
 		{
 			System.out.println("true");
+			System.out.println("jjjjjjjjjjjjj");
 		}
+		
 	}
 
 }
